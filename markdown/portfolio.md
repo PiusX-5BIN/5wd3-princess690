@@ -4,7 +4,7 @@
 
 [projeceten](projecten.md)
 
-# min portfolio (Princess)
+# mijn portfolio (Princess)
 
 ![princess die een rechte rug probeert te behouden](../afbeeldingen%20project/princess.jpg)
 
@@ -16,17 +16,20 @@ Ik ben Princess. Mijn naam is Princess en ik ben ook een echte princess. Daarom 
 
 ## Contacteer me op
 
-mail:
+
 princess.asheshe@leerling.piustien.net
 
-locatie:
+
 belgië,hoboken
 
-telefoon:
+
 04567898753
 
 ## Leven
 
 Ik lijd nu een heel goed leven en ben er blij mee. Alleen is het jammer dat veel mensen vaak jaloers op mijn prestatie's en ook om dat ik een princess ben heb ik eigenlijk niet zo veel vrijheid.
+
+
+[nu naar boven](portfolio.md)
 
 
