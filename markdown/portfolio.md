@@ -4,7 +4,7 @@
 
 [projeceten](projecten.md)
 
-# Princess
+# min portfolio (Princess)
 
 ![princess die een rechte rug probeert te behouden](../afbeeldingen%20project/princess.jpg)
 
