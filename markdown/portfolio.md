@@ -6,9 +6,9 @@
 
 # mijn portfolio (Princess)
 
-![princess die een rechte rug probeert te behouden](../afbeeldingen%20project/princess.jpg)
+![princess die een rechte rug probeert te behouden](afbeeldingen%20project/princess.jpg)
 
-![princess die manieren zit te leren.](../afbeeldingen%20project/princess%20eticketen.jpg)
+![princess die manieren zit te leren.](afbeeldingen%20project/princess%20eticketen.jpg)
 
 ## De les leren
 

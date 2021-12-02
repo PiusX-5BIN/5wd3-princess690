@@ -6,7 +6,7 @@
 
 # American football
 
-![american football speler](../afbeeldingen%20project/american%20football%20player.jpg)
+![american football speler](../html/afbeeldingen%20project/american%20football%20player.jpg)
 ## Football player
 
 American football spelen ze all jaren.

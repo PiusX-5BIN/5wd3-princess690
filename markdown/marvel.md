@@ -6,7 +6,7 @@
 
 # Marvel
 
-![marvel](../afbeeldingen%20project/Marvel_Logo.svg)
+![marvel](afbeeldingen%20project/Marvel_Logo.svg)
 
 ## Marvel
 

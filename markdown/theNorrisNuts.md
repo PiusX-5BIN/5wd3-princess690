@@ -6,7 +6,7 @@
 
 # The norris nuts
 
-![the norris nuts in een foto collectie](../afbeeldingen%20project/the%20norris%20nuts.jpg)
+![the norris nuts in een foto collectie](afbeeldingen%20project/the%20norris%20nuts.jpg)
 
 ## The norris nuts
 

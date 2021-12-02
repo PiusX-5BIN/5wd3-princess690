@@ -6,7 +6,7 @@
 
 # Manga
 
-![manga](../afbeeldingen%20project/manga.jpg)
+![manga](afbeeldingen%20project/manga.jpg)
 
 ## Manga
 

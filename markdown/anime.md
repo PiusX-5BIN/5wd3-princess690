@@ -6,7 +6,7 @@
 
 # One piece vs fairytail
 
-![one piece vs fairytail. twee hele goede anime en manga](../afbeeldingen%20project/duels.jpg)
+![one piece vs fairytail. twee hele goede anime en manga](../html/afbeeldingen%20project/duels.jpg)
 
 ## One piece vs fairytail
 

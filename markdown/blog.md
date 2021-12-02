@@ -6,7 +6,7 @@
 
 # Blog
 
-![marvel](../afbeeldingen%20project/Marvel_Logo.svg)
+![marvel](afbeeldingen%20project/Marvel_Logo.svg)
 
 ## Marvel
 
@@ -16,17 +16,16 @@ Marvel is één van de beste, misschien wel de beste film maker ooit. met films 
 
 [lees meer.](marvel.md)
 
-![manga](../afbeeldingen%20project/manga.jpg)
-
-## Manga
+![one piece vs fairytail. twee hele goede anime en manga](afbeeldingen%20project/duels.jpg)
+## One piece vs fairytail
 
 ### Manga 30-11-2021
 
-Manga is ontstaan in azië. Met heel veel populaire manga's zoals naruto en one piece zijn veel van de populaire omgevormd in anime's. Zelfs de minder populaire manga's lezen veel mensen.
+One piece en fairytail zijn twee hele goede manga. Maar welke is beter?
 
-[lees meer.](manga.md)
+[lees meer.](anime.md)
 
-![the norris nuts in een foto collectie](../afbeeldingen%20project/the%20norris%20nuts.jpg)
+![the norris nuts in een foto collectie](afbeeldingen%20project/the%20norris%20nuts.jpg)
 ## The norris nuts
 
 ### The norris nuts 1-12-2021
