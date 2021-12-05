@@ -1,0 +1,15 @@
+.menu-list{
+    display: none;
+}
+
+.menu-list:target{
+    display: block;
+}
+
+.material-icons-outlined{
+    color: #607d8b;
+}
+
+.datum{
+    background-color: #ccc;
+}

@@ -5,3 +5,11 @@
 .menu-list:target{
     display: block;
 }
+
+.start{
+    text-decoration: none;
+}
+
+.menu-link{
+    text-decoration: none;
+}

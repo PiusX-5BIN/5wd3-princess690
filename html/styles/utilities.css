@@ -1,0 +1,17 @@
+
+
+.bg-dominant{
+    background-color: var(--color-dominant);
+}
+
+.bg-complement{
+    background-color: var(--color-complement);
+}
+
+.bg-contrast{
+    background-color: var(--color-contrast);
+}
+
+.bg-accent{
+    background-color: var(--color-accent);
+}

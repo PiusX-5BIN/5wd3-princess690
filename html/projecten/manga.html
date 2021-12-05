@@ -4,42 +4,133 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>manga</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined">
 
-    <link rel="stylesheet" href="styles/composition.css">
-    <link rel="stylesheet" href="styles/utilities.css">
-    <link rel="stylesheet" href="styles/blocks.css">
+    <link rel="stylesheet" href="style/composition.css">
+    <link rel="stylesheet" href="style/utilities.css">
+    <link rel="stylesheet" href="style/blocks.css">
 </head>
 <body>
     <nav>
-        <a href="#menu-list" id="menu-open">
-            <span class="material-icons-outlined">
+        <a href="#menu-list" id="menu-open"class="material-icons-outlined start">
                 menu
-            </span>
         </a>
-        <a href="#close-menu" id="menu-close">
-            <span class="material-icons-outlined">
+       
+         <a href="#close-menu" id="menu-close" class="material-icons-outlined start">
                 clear
-                </span>
-        </a>
+         </a>
+        
         <ul id="menu-list" class="menu-list">
-            <li><a href="index.html">home</a></li>
-            <li> <a href="blog.html"> blog</a></li>
-            <li> <a href="projecten.html">projecten</a></li>
+            <li><a class="menu-link" href="index.html">home</a></li>
+            <li> <a class="menu-link" href="blog.html"> blog</a></li>
+            <li> <a class="menu-link" href="projecten.html">projecten</a></li>
         </ul>
     </nav>
-    <main>
-        <h1>manga</h1>
-        <section>
-            <img src="afbeeldingen project/manga.jpg" alt="manga">
 
-            <h2>manga</h2>
-
-            <h3>manga <time datetime="30-11-2021">30-11-2021</time></h3>
-
-            <p>Manga is ontstaan in azië. Met heel veel populaire manga's zoals naruto en one piece zijn veel van de populaire omgevormd in anime's. Zelfs de minder populaire manga's lezen veel mensen.</p>
-        </section> 
+    <main id="mainGridContainer" class="bg-dominant">
+        <section id="persoonlijk" class="card shadow-high bg-complement">
+            <h1>manga</h1>
+            <img src="afbeeldingen project/manga.jpg" alt="veel manga op een foto met de bekendste luffy en naruto.">
+            <p>
+                Manga is ontstaan in azië. Met heel veel populaire manga's zoals naruto en one piece zijn veel van de populaire omgevormd in anime's. Zelfs de minder populaire manga's lezen veel mensen.
+            </p>
+            <hr>
+            <ul id="icons">
+                <li><span class="material-icons-outlined">
+                    person_outline
+                    </span>
+                    Zhang Wei
+                </li>
+                <li><span class="material-icons-outlined">
+                    home
+                    </span>
+                    China
+                </li>
+                <li><span class="material-icons-outlined">
+                    cake
+                    </span>
+                    October 1, 1981
+                </li>
+            </ul>
+        </section>
+        <section id="uitleg" class="card shadow-high bg-complement">
+            <h2>Manga</h2>
+            <img src="afbeeldingen project/manga collection.jpg" alt="een collectie van meer manga's dan de vorige foto.">
+            <p>
+                doorheen de jaren zijn er veel manga artisten geweest zoals Zhang Wei, Osamu Tezuka,Akira Toriyama en talloze andere die veel manga hebben gemaakt zoals soul land, one piece, naruto, dragonball en talloze andere.
+            </p>
+        </section>
+        <section id="hellena" class=" card getuigenis shadow-high bg-complement">
+            <h2>tang san</h2>
+            <img src="afbeeldingen project/tang san.jpg" alt="tang san die laat zien wat zijn martial soul is.">
+            <hr>
+            <p>hallo, ik ben Hellena. op 3 mei ben ik door snake gered. hij heeft mij kunnen grijpen toen ik
+                verkeerd op een berg liep en er bijna vanaf viel. hij heeft wel geen handen dus heeft hij mij gegrepen van mijn
+                nek. ik heb geen gips om maar choker. Ik vroeg gewoon aan de dokter of het stijlvol kon en hij zij ja.
+                dankje snake!</p>
+        </section>
+        <section id="tom" class=" card getuigenis shadow-high bg-complement">
+            <h2>luffy</h2>
+            <img src="afbeeldingen project/luffy.jpg" alt="luffy die zoals altijd een super grote lag op zijn gezigd heeft.">
+            <hr>
+            <p>dag, ik ben Tom. ik ben heel boos dat snake me gered heeft. ik wou niet gered worden. 
+                ik wou mijn dood in scene zetten en dan gewoon verdwijnen en niemand zou me dan kunnen storen maar snake heeft
+                dat verpest. ik krijg je nog wel snake!</p>
+        </section>
+        <section id="selena" class=" card getuigenis shadow-high bg-complement">
+            <h2>boruto</h2>
+            <img src="afbeeldingen project/boruto.png" alt="boruto die laat zien dat hij niet zomaar een normale mens is.">
+            <hr>
+            <p>hi, i'm selena. i don't know how to speak dutch so i'm just going to do it in english. 
+                to tell you the truth snake didn't actually save me. it was all just a misunderstanding. i was shooting a action
+                movie and snake tried to save me when i was doing a stunt. but still snake is just the cutest.
+                thanks snake! Although i didn't actually need it i am tough.</p>
+        </section>
+        <section id="krabs" class="card getuigenis shadow-high bg-complement">
+            <h2>zhou wei qing</h2>
+            <img src="afbeeldingen project/Heavenly-Beads-Master.jpg" alt="zhou wei qing die immens veel pijn voelt.">
+            <hr>
+            <p>hi, mijn naam is krabs. ik weet dat het raar is aangezien ik een zeepaardje ben maar mijn
+                ouders hadden iets met rare namen. maar ik was dus gered door flipper ik zou eigenlijk gered zijn geweest door
+                snake maar niet dus. snake is een slang en kan daarom niet ademen onder water maar ik zat vast onder een
+                kleine kei onder water dus moest flipper mij wel komen helpen. flipper is mijn held en ook een
+                beetje mijn type als iemand zijn nummer weet kan je het dan aan mij geven</p>
+        </section>
+        <section id="theEater" class="card strip shadow-high bg-complement">
+            <h3>douluo dalu 3</h3>
+            <img src="afbeeldingen project/douluo dalu 3.jpg" alt="eerste strip van snake">
+            <p class="datum">Coming out on the 31th of july.</p>
+        </section>
+        <section id="stripTwee" class="card strips shadow-high bg-complement">
+            <h3>douluo dalu 4</h3>
+            <img src="afbeeldingen project/douluo dalu 4.jpg" alt="tweede strip van snake">
+            <p class="datum">Coming out on the 9th of april</p>
+        </section>
+        <section id="stripDrie" class="card strips shadow-high bg-complement">
+            <h3>Tales of Demons and Gods</h3>
+            <img src="afbeeldingen project/Tales of Demons and Gods.png" alt="derde strip van snake">
+            <p class="datum">Coming out on the 20th of september.</p>
+        </section>
     </main>
+    <footer id="websites" class="bg-accent text-white">
+        <h2>andere manga die je uit moet checken.</h2>
+        <ul id="websiteLijst">
+            <li><a 
+                href="afbeeldingen project/to a new life.jpg">to a new life</a>
+            </li>
+            <li><a 
+                href="afbeeldingen project/Leveling-With-The-Gods.jpg">Leveling With The Gods</a>
+            </li>
+            <li><a 
+                href="afbeeldingen project/kamitachi_ni_hirowareta_otoko.webp">kamitachi ni hirowareta otoko</a>
+            </li>
+            <li>
+                <a href="afbeeldingen project/Soul_Land_II.webp"> soul land 2</a>
+            </li>
+        </ul>
+        <p>powered by <a href="afbeeldingen project/me.jpg">princess.asheshe</a></p>
+    </footer>
+    
 </body>
 </html>
