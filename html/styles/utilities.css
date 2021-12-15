@@ -15,3 +15,12 @@
 .bg-accent{
     background-color: var(--color-accent);
 }
+
+.shadow-high{
+    box-shadow: 0 0 0.5rem;
+}
+
+.shadow-low{
+    box-shadow: 0 0 0.5rem;
+}
+

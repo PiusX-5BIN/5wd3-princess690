@@ -21,5 +21,48 @@
     display: block;
 }
 
+.onderwerpen{
+    width: 100%;
+    height: 10rem;
+}
+.personages{
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+@media only screen and (min-width:600px){
+    #mainGridContainer{
+        display: grid;
+
+        grid-template-columns: 3fr;
+        grid-template-rows: 1fr 4fr 4fr 4fr ;
+
+        grid-template-areas: "title"
+                             "een"
+                             "twee"
+                             "drie" ;
+
+        grid-gap: 1rem;
+        padding: 2rem;
+    }
+    #titel{
+        grid-area: title;
+    }
+    #een{
+        grid-area: een;
+    }
+
+    #twee{
+        grid-area: twee;
+    }
+
+    #drie{
+        grid-area: drie;
+    }
+
+    .onderwerpen{
+        width: 50%;
+    }
+}
 
 
